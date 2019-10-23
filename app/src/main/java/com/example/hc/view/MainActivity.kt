@@ -8,7 +8,7 @@ import androidx.lifecycle.ViewModelProviders
 import com.example.hc.R
 import com.example.hc.viewmodel.AllUsersViewModel
 
-
+// Pogledaj telefon.
 class MainActivity : AppCompatActivity() {
 
     private var allUsersViewModel: AllUsersViewModel? = null
